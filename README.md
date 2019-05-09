@@ -16,6 +16,7 @@
 ```
 {
   "editor.fontSize": 14,
+  "terminal.integrated.fontSize": 14,
   "workbench.colorTheme": "Dracula",
   "editor.tabSize": 2,
   "files.autoSave": "afterDelay",
