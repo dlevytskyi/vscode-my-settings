@@ -15,6 +15,7 @@
 
 ```
 {
+  "editor.fontSize": 14,
   "workbench.colorTheme": "Dracula",
   "editor.tabSize": 2,
   "files.autoSave": "afterDelay",
@@ -23,6 +24,7 @@
   "prettier.singleQuote": true,
   "prettier.printWidth": 100,
   "prettier.tabWidth": 2,
-  "workbench.iconTheme": "material-icon-theme"
+  "workbench.iconTheme": "material-icon-theme",
+  "importCost.bundleSizeDecoration": "both"
 }
 ```
